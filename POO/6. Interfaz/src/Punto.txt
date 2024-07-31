@@ -1,0 +1,4 @@
+La diferencia entre una clase abstracta y una interfaz, es que la clase abstracta posee atributos y métodos heredables,
+por otro lado, una interfaz es una clase que únicamente hereda métodos.
+
+Las clases hijas de las interfaces pueden heredar de muchas otras inferfaces (clases con únicamente métodos)
